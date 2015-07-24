@@ -1,0 +1,16 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Downloads\Alien_on_earth\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.exe
+C:\Users\Joel\Downloads\Alien_on_earth\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.pdb
+C:\Users\Joel\Downloads\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.exe
+C:\Users\Joel\Downloads\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.pdb
+C:\Users\Joel\Downloads\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.exe.config
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.exe.config
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.exe
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.pdb
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.exe
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\bin\Debug\Alien_on_earth.pdb
+D:\Alien_on_earth\Alien_on_earth\Alien_on_earth\obj\x86\Debug\Alien_on_earth.csprojResolveAssemblyReference.cache
